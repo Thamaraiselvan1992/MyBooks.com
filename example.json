@@ -1,0 +1,170 @@
+{
+    "tamil": [
+        {
+            "images": "images/kids tamil/71vYKf1x+HL._AC_UL320_SR224,320_.jpg",
+            "dataid": 1,
+            "dataname": "product 1",
+            "datasummary": "summary 1",
+            "dataprice": 100,
+            "dataimages": "images/kids tamil/71vYKf1x+HL._AC_UL320_SR224,320_.jpg"
+        },
+        {
+            "images": "images/kids tamil/a4257553766_10.jpg",
+            "dataid": 2,
+            "dataname": "product 2",
+            "datasummary": "summary 2",
+            "dataprice": 100,
+            "dataimages": "images/kids tamil/a4257553766_10.jpg"
+        },
+        {
+            "images": "images/kids tamil/download.jpg",
+            "dataid": 3,
+            "dataname": "product 3",
+            "datasummary": "summary 3",
+            "dataprice": 120,
+            "dataimages": "images/kids tamil/download.jpg"
+        },
+        {
+            "images": "images/kids tamil/images (1).jpg",
+            "dataid": 4,
+            "dataname": "product 4",
+            "datasummary": "summary 4",
+            "dataprice": 130,
+            "dataimages": "images/kids tamil/images (1).jpg"
+        },
+        {
+            "images": "images/kids tamil/images (2).jpg",
+            "dataid": 5,
+            "dataname": "product 5",
+            "datasummary": "summary 5",
+            "dataprice": 140,
+            "dataimages": "images/kids tamil/images (2).jpg"
+        }
+    ],
+    "english": [
+        {
+            "images": "images/books/18046D-40471-160929165451.jpg",
+            "dataid": 8,
+            "dataname": "product 8",
+            "datasummary": "summary 8",
+            "dataprice": 170,
+            "dataimages": "images/books/18046D-40471-160929165451.jpg"
+        },
+        {
+            "images": "images/books/Overlap_LMN_Web.jpg",
+            "dataid": 9,
+            "dataname": "product 9",
+            "datasummary": "summary 9",
+            "dataprice": 180,
+            "dataimages": "images/books/Overlap_LMN_Web.jpg"
+        },
+        {
+            "images": "images/books/good-night-little-me-personalized-book-c.jpg",
+            "dataid": 10,
+            "dataname": "product 10",
+            "datasummary": "summary 10",
+            "dataprice": 190,
+            "dataimages": "images/books/good-night-little-me-personalized-book-c.jpg"
+        },
+        {
+            "images": "images/books/header_en.png",
+            "dataid": 11,
+            "dataname": "product 11",
+            "datasummary": "summary 11",
+            "dataprice": 130,
+            "dataimages": "images/books/header_en.png"
+        },
+        {
+            "images": "images/books/preloved_disney_story_book__aladdin_1524756410_225fc3770",
+            "dataid": 12,
+            "dataname": "product 12",
+            "datasummary": "summary 12",
+            "dataprice": 130,
+            "dataimages": "images/books/preloved_disney_story_book__aladdin_1524756410_225fc3770"
+        }
+    ],
+    "men": [
+        {
+            "images": "images/men/5164255.jpg",
+            "dataid": 13,
+            "dataname": "product 13",
+            "datasummary": "summary 13",
+            "dataprice": 145,
+            "dataimages": "images/men/5164255.jpg"
+        },
+        {
+            "images": "images/men/51NwZA4SN9L.jpg",
+            "dataid": 14,
+            "dataname": "product 14",
+            "datasummary": "summary 14",
+            "dataprice": 110,
+            "dataimages": "images/men/51NwZA4SN9L.jpg"
+        },
+        {
+            "images": "images/men/51efxurkrcL._SX324_BO1,204,203,200_.jpg",
+            "dataid": 15,
+            "dataname": "product 15",
+            "datasummary": "summary 15",
+            "dataprice": 120,
+            "dataimages": "images/men/51efxurkrcL._SX324_BO1,204,203,200_.jpg"
+        },
+        {
+            "images": "images/men/51zUP0+QdUL.jpg",
+            "dataid": 16,
+            "dataname": "product 16",
+            "datasummary": "summary 16",
+            "dataprice": 130,
+            "dataimages": "images/men/51zUP0+QdUL.jpg"
+        },
+        {
+            "images": "images/men/9780575081437.jpg",
+            "dataid": 17,
+            "dataname": "product 17",
+            "datasummary": "summary 17",
+            "dataprice": 140,
+            "dataimages": "images/men/9780575081437.jpg"
+        }
+    ],
+    "women": [
+        {
+            "images": "images/women/51TRnkfI77L._SX322_BO1,204,203,200_.jpg",
+            "dataid": 18,
+            "dataname": "product 18",
+            "datasummary": "summary 18",
+            "dataprice": 145,
+            "dataimages": "images/women/51TRnkfI77L._SX322_BO1,204,203,200_.jpg"
+        },
+        {
+            "images": "images/women/H501820D.jpg",
+            "dataid": 19,
+            "dataname": "product 19",
+            "datasummary": "summary 19",
+            "dataprice": 110,
+            "dataimages": "images/women/H501820D.jpg"
+        },
+        {
+            "images": "images/women/my_story.jpg",
+            "dataid": 20,
+            "dataname": "product 20",
+            "datasummary": "summary 20",
+            "dataprice": 120,
+            "dataimages": "images/women/my_story.jpg"
+        },
+        {
+            "images": "images/women/preacher-s-in-name-only-wife-1.jpg",
+            "dataid": 21,
+            "dataname": "product 21",
+            "datasummary": "summary 21",
+            "dataprice": 130,
+            "dataimages": "images/women/preacher-s-in-name-only-wife-1.jpg"
+        },
+        {
+            "images": "images/women/whenwomenruled_web.png",
+            "dataid": 22,
+            "dataname": "product 22",
+            "datasummary": "summary 22",
+            "dataprice": 156,
+            "dataimages": "images/women/whenwomenruled_web.png"
+        }
+    ]
+}
